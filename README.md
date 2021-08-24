@@ -6,6 +6,6 @@ This is The Legend that you need to follow to make sure that the Application is 
 
 * Cercle : Text
 * Triangle: TextField
-* Cercle with diameters:Icon 
+* Cercle With Diameters: Icon 
 * Square: TextButton 
 * Trapeze Shape: Image
