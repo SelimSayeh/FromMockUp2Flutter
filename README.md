@@ -8,4 +8,4 @@ This is The Legend that you need to follow to make sure that the Application is 
 * Triangle: TextField
 * Cercle with diameters:Icon 
 * Square: TextButton 
-*trapeze Shape: Image
+* Trapeze Shape: Image
